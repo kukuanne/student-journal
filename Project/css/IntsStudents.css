@@ -1,0 +1,97 @@
+body{
+    background-color: #eaf2f8;
+    width: 1105px;
+    font-family: Arial;
+    padding: 10px;
+    margin: 40px;
+    height: 1300px;
+    
+}
+.box1{
+    top: 10px;
+}
+
+.box2{
+    border: 1px solid black;
+    width: 99%;
+    height: 50px;
+    margin: 5px;
+    background-color: whitesmoke;
+    
+}
+.box3{
+    padding: 5px;
+    position: relative;
+    width: 530px;
+    height: 1070px;
+    border: 1px solid black;
+    left: 5px;
+    top: 350px;
+    background-color: rgb(200, 195, 193);
+    margin: 5px;
+}
+
+.box4{
+    padding: 5px;
+    position: absolute;
+    width: 700px;
+    height: 100S0px;
+    border: 1px solid black;
+    left: 600px;
+    top: 500px;
+    background-color: gainsboro;
+    margin: 5px;
+}
+
+.button {
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .button1 {
+    background-color: gainsboro;
+    color: black;
+    border: 1px solid gray;
+    width: 30%;
+    padding: 16px;
+  }
+  
+  .button1:hover {
+    background-color: white;
+    color: gray;
+  }
+  
+  .button2 {
+    background-color: gainsboro;
+    color: black;
+    border: 1px solid gray;
+    width: 30%;
+    padding: 16px;
+  }
+  
+  .button2:hover {
+    background-color: white;
+    color: gray;
+  }
+
+  .button3 {
+    background-color: gainsboro;
+    color: black;
+    border: 1px solid gray;
+    width: 30%;
+    padding: 16px;
+  }
+  
+  .button3:hover {
+    background-color: white;
+    color: gray;
+  }
+
